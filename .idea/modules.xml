@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/MyAIDLCommunication.iml" filepath="$PROJECT_DIR$/MyAIDLCommunication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aidlCom.iml" filepath="$PROJECT_DIR$/aidlCom.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
